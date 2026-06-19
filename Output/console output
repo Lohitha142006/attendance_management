@@ -1,0 +1,11 @@
+Prediction Result:
+Low Attendance
+
+Student Attendance Report
+
+  Student  Classes_Attended  Total_Classes  Attendance_Percentage
+0 Ravi     45               50             90.0
+1 Priya    38               50             76.0
+2 Arjun    48               50             96.0
+3 Sneha    30               50             60.0
+4 Kiran    42               50             84.0
